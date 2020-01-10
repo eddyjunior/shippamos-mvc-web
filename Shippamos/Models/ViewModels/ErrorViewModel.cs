@@ -1,6 +1,6 @@
 using System;
 
-namespace Shippamos.Models
+namespace Shippamos.Models.ViewModels
 {
     public class ErrorViewModel
     {
